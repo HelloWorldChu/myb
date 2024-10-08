@@ -1,7 +1,8 @@
 //以下内容为互联网收集，只为自用…… https://gitcode.net/yuzhen/mybox/-/raw/main/dm.txt
  { "storeHouse": [ 
 
-{ "sourceName": "💢自用仓库", "sourceUrl": "https://gitcode.net/yuzhen/mybox/-/raw/main/add.json" }, 
+//{ "sourceName": "💢自用仓库", "sourceUrl": "https://gitcode.net/yuzhen/mybox/-/raw/main/add.json" }, 
+{ "sourceName": "💢自用仓库", "sourceUrl": "https://gh.sixyin.com/https://raw.githubusercontent.com/HelloWorldChu/myb/main/add.json" }, 
 { "sourceName": "👒纯净仓库", "sourceUrl": "https://gh.sixyin.com/https://raw.githubusercontent.com/andyyang518/ziyong/main/chunjingcang/chunjingcang.json" },  
 //{ "sourceName": "🌸超级仓库", "sourceUrl": "http://152.32.170.60/hu/hcr/raw/branch/master/99668.txt" }, 
 { "sourceName": "🌸超级仓库", "sourceUrl": "https://gh.sixyin.com/https://raw.githubusercontent.com/alantang1977/X/main/if.json" }, 
